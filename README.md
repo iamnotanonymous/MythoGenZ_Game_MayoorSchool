@@ -10,4 +10,4 @@ All Scripts Used are also in the assets Folder(Written In C#[Language USed in Un
 
 *Made with Unity
 
-- By MythosGenZ Team from Mayoor School
+- By MythoGenZ Team from Mayoor School
