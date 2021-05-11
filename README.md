@@ -1,4 +1,4 @@
-# MythosGenZ_Game_MayoorSchool 
+# MythoGenZ_Game_MayoorSchool 
 This the game submission file for National Game Competition.
 
 Assets Folder from Unity files is made available.
