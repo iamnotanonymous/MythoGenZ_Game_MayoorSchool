@@ -5,9 +5,9 @@ Assets Folder from Unity files is made available.
 
 All Assets used are in the assets Folder.
 
-All Scripts Used are also in the assets Folder(Written In C#[Language USed in Unity]).
+All Scripts Used are also in the assets Folder(Written In C#[Language Used in Unity]).
 
 
-*Made with Unity
+*Made with Unity 3D
 
 - By MythoGenZ Team from Mayoor School
