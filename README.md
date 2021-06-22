@@ -1,4 +1,4 @@
-# MythosGenZ_Game_MayoorSchool 
+# MythoGenZ_Game_MayoorSchool 
 This the game submission file for National Game Competition.
 
 Assets Folder from Unity files is made available.
@@ -10,4 +10,4 @@ All Scripts Used are also in the assets Folder(Written In C#[Language USed in Un
 
 *Made with Unity
 
-- By MythosGenZ Team from Mayoor School
+- By MythoGenZ Team from Mayoor School
